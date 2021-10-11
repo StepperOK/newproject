@@ -1,0 +1,21 @@
+.header {
+    grid-area: h;
+    background-color: #fff5f7;
+    height: 70px;
+  }
+  
+  .header img {
+    width: 150px;
+    height: 100%;
+  }
+.link{
+  display: flex;
+  justify-content: space-between;
+  margin: 0 -15px; }
+  ul{
+    list-style: none;
+    display: flex;
+  }
+  li{
+    margin-right: 300px;
+  }
